@@ -30,15 +30,46 @@ while count > 0:
     print(count)
     count -= 4
 
-# #! can't solve for problem 6
-# #part 6 
-# lowNum = 0
-# highNum = 0 
-# mult = 0 
+#! can't solve for problem 6
+#part 6 
+lowNum = 300
+highNum = 900
+mult = 3
 
-# for i in range(lowNum, highNum + 1):
-#     if i % mult == 0:
-#         print(i)
+for i in range(lowNum, highNum + 1):
+    if i % mult == 0:
+        print(i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
