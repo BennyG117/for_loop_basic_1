@@ -30,7 +30,6 @@ while count > 0:
     print(count)
     count -= 4
 
-#! can't solve for problem 6
 #part 6 
 lowNum = 300
 highNum = 900
